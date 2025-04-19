@@ -10,6 +10,10 @@ Gou, J., Yu, B., Maybank, S. J., & Tao, D. (2021). Knowledge distillation: A sur
 
 Tian, Y., Pei, S., Zhang, X., Zhang, C., & Chawla, N. V. (2025). Knowledge distillation on graphs: A survey. ACM Computing Surveys, 57(8), 1-16.
 
+Li, J., Li, T., Shen, G., Zhao, D., Zhang, Q., & Zeng, Y. (2025). Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA. arXiv preprint arXiv:2502.10659.
+
+Jiang, Z., Yin, D., Chen, Y., Khoda, E. E., Hauck, S., Hsu, S. C., ... & Moreno, E. A. (2025). Low latency transformer inference on FPGAs for physics applications with hls4ml. Journal of Instrumentation, 20(04), P04014.
+
 Dantas, P. V., Sabino da Silva Jr, W., Cordeiro, L. C., & Carvalho, C. B. (2024). A comprehensive review of model compression techniques in machine learning. Applied Intelligence, 54(22), 11804-11844.
 
 Molina, R. S., Morales, I. R., Crespo, M. L., Costa, V. G., Carrato, S., & Ramponi, G. (2023). An end-to-end workflow to efficiently compress and deploy DNN classifiers on SoC/FPGA. IEEE Embedded Systems Letters, 16(3), 255-258.
